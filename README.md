@@ -48,7 +48,6 @@ Building AI/ML automation pipelines, fintech integrations, and full-stack system
 | **[Image Colorization](#)** | Splits images into segments, colorizes each with a fine-tuned autoencoder + CNN, then reconstructs into video |
 | **[E-Commerce Site](#)** | Product listing/detail pages and a full cart flow, responsive across devices |
 
-> Replace the `#` links above with the actual repo URLs once pushed/public.
 
 ---
 
